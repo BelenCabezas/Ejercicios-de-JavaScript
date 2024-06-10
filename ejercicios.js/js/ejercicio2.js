@@ -5,7 +5,7 @@ let altura = 1.75
 
 let imc =peso / (altura*altura)
 
-//Clasifico el imc
+
 let clasificacion 
 
 if(imc<18.5){
