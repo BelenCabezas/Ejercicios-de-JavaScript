@@ -2,7 +2,7 @@
 primo =true
  let numero = 47 
 if (numero <=1){
-    esPrimo =false
+    primo =false
 
 }
 else{
